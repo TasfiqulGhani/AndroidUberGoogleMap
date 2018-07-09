@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidUberGoogleMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="service_not_available">Service Not Availble</string>
+    <string name="invalid_lat_long_used">Invalid Lat Long Used</string>
+    <string name="no_address_found">No Address Found</string>
+    <string name="address_found">Address Found</string>
+    <string name="no_geocoder_available">No Geocoding Available</string>
+</resources>
